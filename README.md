@@ -1,10 +1,10 @@
 # NutriCoach
 
-##Introduction
+## Introduction
 
 NutriCoach aims to combine different health doctors such as nutritionists and dieticians on a single platform to provide best suited diet to an individual. Furthermore it gives a diet chart according to the nutrient requirements of the person. In addition to this, the application contains a health store that sells nutritious products prescribed by the health specialists.
 
-##Screenshots of app
+## Screenshots of app
 
 <img width="300" height="300" alt="Screenshot 2024-09-26 at 1 04 10 PM" src="https://github.com/user-attachments/assets/efad561b-870d-4729-a3fb-9c213dfb7bda">
 
